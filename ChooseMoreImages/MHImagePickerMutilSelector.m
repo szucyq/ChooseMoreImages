@@ -140,7 +140,7 @@
         
         [imv.layer setBorderColor:[UIColor whiteColor].CGColor];
         [imv.layer setBorderWidth:2.0f];
-        NSLog(@"add images:%@",imv);
+//        NSLog(@"add images:%@",imv);
         [rotateView addSubview:imv];
         [imv release];
         
